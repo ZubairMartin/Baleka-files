@@ -1,6 +1,0 @@
-V_avg = 8.0
-mu_value = 1.0
-h_lower_bound = 0.5
-h_higher_bound = 1.5
-N = 100
-TT = 0.3
