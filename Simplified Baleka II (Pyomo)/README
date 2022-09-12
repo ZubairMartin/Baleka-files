@@ -1,0 +1,6 @@
+This is the Simplified Baleka II modelled in Pyomo. Things to note:
+
+1. Files included with and without RW
+2. Stribeck model needs to be fixed
+3. Boom not included
+4. Feet not included
